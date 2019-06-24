@@ -16,7 +16,7 @@ class GoogleAuth extends React.Component {
           //If user is signed in
           // then isSignedIn will set to true
 
-          // this.setState({ isSignedIn: this.auth.isSignedIn.get() });
+          //this.setState({ isSignedIn: this.auth.isSignedIn.get() });
           this.onAuthChange(this.auth.isSignedIn.get());
           //the isSignedIn value changes only when the App refreshes
           // In order to show dynamically we use the prototype method listen of isSignedIn object
