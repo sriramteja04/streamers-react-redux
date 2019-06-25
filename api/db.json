@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "reactsj crash course",
+      "description": "silver in color",
+      "userId": "103162054503216368747",
+      "id": 1
+    },
+    {
+      "title": "nodejs course",
+      "description": "white in color",
+      "userId": "103162054503216368747",
+      "id": 2
+    }
+  ]
+}
